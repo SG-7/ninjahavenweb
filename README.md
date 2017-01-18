@@ -1,1 +1,3 @@
-"# ninjahavenweb" 
+"# ninjahavenweb"
+
+I am so confused about how these commits work within Atom...
